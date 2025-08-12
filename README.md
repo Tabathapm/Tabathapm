@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 ## 📚 En proceso de aprendizaje
 
 - Solidity y contratos inteligentes
+<!-- 
 - Arquitectura de software (MVC, SOLID, DAO)
 - Seguridad web (XSS, SQLi, auth)
-- Diseño de APIs RESTful
+- Diseño de APIs RESTful  
+-->
 
 ---
 
