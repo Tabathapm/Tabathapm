@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 - 💼 [CV para Wanda](https://wandaperalta.vercel.app/) – CV moderno en React para una futura técnica en anatomía patológica.
 - 👊 [KnockOut](https://github.com/Tabathapm/KnockOut) – Proyecto enfocado en UI/UX y animaciones web.
 - 🚀 [GauchoRocket](https://github.com/Tabathapm/GauchoRocket) – Proyecto con alma espacial y espíritu criollo.
-
+<!-- 
 ---
 
 ## 📚 En proceso de aprendizaje
 
 - Solidity y contratos inteligentes
-<!-- 
+
 - Arquitectura de software (MVC, SOLID, DAO)
 - Seguridad web (XSS, SQLi, auth)
 - Diseño de APIs RESTful  
